@@ -10,13 +10,13 @@ export function Footer() {
   return (
     <Container className="footer">
       <a href="https://vinayaksingh.in" className="logo">
-        <span>www.vinayak</span>
-        <span>singh.in</span>
+        <span>Kennedy</span>
+        <span>Bernard</span>
       </a>
       <div>
         <p>
-          This Website was made with <img src={reactIcon} alt="React" />
-          {/* <span>❤️</span> */}
+          Contact directly via phone (+254115506555)
+          
         </p>
       </div>
 
